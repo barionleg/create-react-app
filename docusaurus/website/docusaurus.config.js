@@ -22,7 +22,7 @@ const siteConfig = {
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
           editUrl:
-            'https://github.com/facebook/create-react-app/edit/main/docusaurus/website',
+            'https://barionleg.github.io/create-react-app/edit/main/docusaurus/website',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -44,8 +44,8 @@ const siteConfig = {
       isCloseable: false,
     },
     algolia: {
-      appId: 'AUJYIQ70HN',
-      apiKey: '25243dbf9049cf036e87f64b361bd2b9',
+      appId: 'ZEDJGESZ31',
+      apiKey: '2afdaf81c56aaab687dbbb777a620e10',
       indexName: 'create-react-app',
     },
     navbar: {
@@ -62,7 +62,7 @@ const siteConfig = {
           position: 'right',
         },
         {
-          href: 'https://www.github.com/facebook/create-react-app',
+          href: 'https://barionleg.github.io/create-react-app',
           label: 'GitHub',
           position: 'right',
         },
@@ -93,7 +93,7 @@ const siteConfig = {
             },
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/facebook/create-react-app/discussions',
+              href: 'https://barionleg.github.io/create-react-app/discussions',
             },
             {
               label: 'Twitter',
@@ -110,7 +110,7 @@ const siteConfig = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://www.github.com/facebook/create-react-app',
+              href: 'https://barionleg.github.io/create-react-app',
             },
           ],
         },
