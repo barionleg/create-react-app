@@ -21,7 +21,7 @@ const siteConfig = {
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
           editUrl:
-            'https://github.com/facebook/create-react-app/edit/main/docusaurus/website',
+            'https://barionleg.github.io/create-react-app/edit/main/docusaurus/website',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -43,8 +43,8 @@ const siteConfig = {
       isCloseable: false,
     },
     algolia: {
-      appId: 'create-react-app',
-      apiKey: '3be60f4f8ffc24c75da84857d6323791',
+      appId: 'ZEDJGESZ31',
+      apiKey: '2afdaf81c56aaab687dbbb777a620e10',
       indexName: 'create-react-app',
     },
     navbar: {
@@ -61,7 +61,7 @@ const siteConfig = {
           position: 'right',
         },
         {
-          href: 'https://www.github.com/facebook/create-react-app',
+          href: 'https://barionleg.github.io/create-react-app',
           label: 'GitHub',
           position: 'right',
         },
@@ -88,12 +88,11 @@ const siteConfig = {
           items: [
             {
               label: 'Stack Overflow',
-              href:
-                'https://stackoverflow.com/questions/tagged/create-react-app',
+              href:'https://stackoverflow.com/questions/tagged/create-react-app',
             },
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/facebook/create-react-app/discussions',
+              href: 'https://barionleg.github.io/create-react-app/discussions',
             },
             {
               label: 'Twitter',
@@ -101,8 +100,7 @@ const siteConfig = {
             },
             {
               label: 'Contributor Covenant',
-              href:
-                'https://www.contributor-covenant.org/version/1/4/code-of-conduct',
+              href: 'https://www.contributor-covenant.org/version/1/4/code-of-conduct',
             },
           ],
         },
@@ -111,7 +109,7 @@ const siteConfig = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://www.github.com/facebook/create-react-app',
+              href: 'https://barionleg.github.io/create-react-app',
             },
           ],
         },
